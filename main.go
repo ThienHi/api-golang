@@ -34,7 +34,7 @@ func login(c echo.Context) error {
 	// }
 
 	return c.JSON(http.StatusOK, &Tokens{
-		Token: "asfj123jyh5u34",
+		Token: "asfj123jyh5u3423hj",
 	})
 
 }
